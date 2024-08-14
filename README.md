@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/1*BEiEd2IuHB48u-4TcnH_FA.gif)](https://cookieeszn.io)
+[![MasterHead](https://cdn.dribbble.com/userupload/15639439/file/original-b9a3fc5a449f0023736a85cafa66415a.gif)](https://cookieeszn.io)
 <h1 align="center">Hi 👋, I'm Gabi</h1>
 <h3 align="center">The most ambitious Software Developer (aspiring engineer)</h3>
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cookieeszn" alt="cookieeszn" /></a> </p>
