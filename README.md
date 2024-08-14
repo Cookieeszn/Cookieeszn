@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [League Trivia](https://github.com/Cookieeszn/League-Trivia)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django / Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cookieeszn?tab=repositories](https://github.com/Cookieeszn?tab=repositories)
 
