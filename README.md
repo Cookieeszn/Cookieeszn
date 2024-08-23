@@ -5,14 +5,14 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Gabi</h1>
-<h3 align="center">The most ambitious Software Developer (aspiring engineer)</h3>
+<h3 align="center">The most ambitious Software Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670664007515/7nRHqrTst.gif" />
 
 
 
 - 🔭 I’m currently working on [League Trivia](https://github.com/Cookieeszn/League-Trivia)
 
-- 🌱 I’m currently learning **Django / Python**
+- 🌱 I’m currently learning **Data Science + Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cookieeszn?tab=repositories](https://github.com/Cookieeszn?tab=repositories)
 
